@@ -11,12 +11,6 @@ mvn compile
 
 A **jar** file will be compiled to the `target` directory.
 
-This can be run using
-
-```sh
-scala skgt-assembly-*.0.jar --help
-```
-
 To run the base rank algorithm and store it as a json file, from the main directory, run
 
 ```sh
