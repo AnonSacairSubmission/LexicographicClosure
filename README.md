@@ -1,7 +1,7 @@
 # Lexicographic-Closure
 Lexicographic Closure implementation was built using Java 16 owing to the TweetyProject and JMH dependency.
 
-[sbt](https://www.scala-sbt.org/1.x/docs/Setup.html) is required to build the project.
+[maven](https://maven.apache.org/users/index.html) is required to build the project.
 
 To compile, from the main directory, run
 
